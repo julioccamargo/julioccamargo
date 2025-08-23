@@ -12,7 +12,7 @@
 * Confira meu **[Repositório de Anotações](https://github.com/julioccamargo/artigos)**, onde registro meu progresso.
 
 ### 🎯 Meta conquistada:
-*  Conquistar a certificação: **Oracle Cloud Infrastructure 2025 Foundations Associate**
+*  Conquistar a certificação: **Oracle Cloud Infrastructure 2025 Foundations Associate** [Certificado](https://catalog-education.oracle.com/ords/certview/sharebadge?id=8CA2C2A70AC92E8F36F83B93CBC91428F228639E15865203ECF28778D8B2CD12) em 19 de agosto de 2025
 
 ### 🎯 Metas atuais:
 * Construir meu primeiro projeto em **AWS
