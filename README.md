@@ -1,4 +1,4 @@
-## Olá, eu sou o Julio Cesar Camargo! 👋
+## Olá, eu sou o Julio Camargo! 👋
 
 - 🔭 Atualmente estou trabalhando no meu **[Repositório de Artigos e Resumos](https://github.com/julioccamargo/artigos)**, onde documento minha jornada de aprendizado.
 - 🌱 Estou focado em aprender os fundamentos do desenvolvimento web: **HTML, CSS, JavaScript e Git**.
