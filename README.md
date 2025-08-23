@@ -18,8 +18,5 @@
 * Construir meu primeiro projeto em **AWS
 * Conquistar a certificação **AWS Certified Cloud Practitioner (CLF-C02)**.
 
-### 🔭 Meus Projetos e Estudos:
-* Confira meu **[Repositório de Anotações de AWS](https://github.com/julioccamargo/artigos)**, onde registro meu progresso.
-
 - 📫 Você pode me encontrar no **[LinkedIn](https://linkedin.com/in/julioccamargo)**.
 - 😄 Pronomes: Ele/Dele
