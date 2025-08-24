@@ -15,7 +15,7 @@
 *  Conquistar a certificação: **Oracle Cloud Infrastructure 2025 Foundations Associate** [Certificado](https://catalog-education.oracle.com/ords/certview/sharebadge?id=8CA2C2A70AC92E8F36F83B93CBC91428F228639E15865203ECF28778D8B2CD12) em 19 de agosto de 2025
 
 ### 🎯 Metas atuais:
-* Construir meu primeiro projeto em **AWS**
+* Construir meu primeiro projeto em **AWS**. Você pode acompanhar o andamento aqui: [primeiro-projeto-AWS](https://github.com/julioccamargo/primeiro-projeto-AWS)
 * Conquistar a certificação **AWS Certified Cloud Practitioner (CLF-C02)**.
 
 - 📫 Você pode me encontrar no **[LinkedIn](https://linkedin.com/in/julioccamargo)**.
