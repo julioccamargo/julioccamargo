@@ -1,3 +1,6 @@
+4.2. Dockerfile Seguro para um Serviço Frontend (/apps/<pasta-do-servico>/Dockerfile)
+Este exemplo usa um build multi-stage para criar uma imagem Nginx mínima e segura para uma aplicação frontend (e.g., Vue.js), incluindo melhorias de segurança e confiabilidade.
+
 # --- Estágio 1: Ambiente de Build ---
 # Usa uma imagem Node.js completa para instalar dependências e construir a aplicação.
 FROM node:22-alpine AS builder
