@@ -1,12 +1,15 @@
 ## Olá, eu sou o Julio Camargo! 👋
 
 ---
+## Meu portifólio freelance setá [aqui]([link](https://github.com/julioccamargo/Projtos-entregues))
+---
 
 ### 🌱 Atualmente estou focado em aprender:
 * **Fundamentos de Nuvem AWS:** EC2, S3, VPC, IAM, RDS.
 * **Automação e Infraestrutura como Código (IaC):** Terraform e AWS CloudFormation.
 * **Containers:** Conceitos de Docker e sua orquestração na nuvem.
 * **Linguagem de Scripting:** Python com a biblioteca Boto3 para interagir com a AWS.
+* Um pouco de DB e front
 
 ### 🔭 Meus Projetos e Estudos:
 * Confira meu **[Repositório de Anotações](https://github.com/julioccamargo/artigos)**, onde registro meu progresso.
