@@ -1,7 +1,7 @@
 ## Olá, eu sou o Julio Camargo! 👋
 
 ---
-## Meu portifólio freelance está [aqui](https://github.com/julioccamargo/Projetos-entregues)
+## Meu portifólio freelance está [AQUI](https://github.com/julioccamargo/Projetos-entregues)
 ---
 
 ### 🌱 Atualmente estou focado em aprender:
