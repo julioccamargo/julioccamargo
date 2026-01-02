@@ -23,7 +23,7 @@
 
 * Desenvolver meu conhecimento em Python para automatizar melhor as tarefas na Cloud. Acesse [aqui](https://github.com/julioccamargo/aprendendo-python).
 * Conquistar certificações Linux, Docker e Kubernetes
-* Acelerar meus conhecimentos em front e DB: MongoDB e React
+* Acelerar meus conhecimentos: React
 
 - 📫 Você pode me encontrar no **[LinkedIn](https://linkedin.com/in/julioccamargo)**.
 - 😄 Pronomes: Ele/Dele
