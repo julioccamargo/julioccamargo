@@ -4,7 +4,7 @@
 ## Meu portifólio freelance está [AQUI](https://github.com/julioccamargo/Projetos-entregues)
 ---
 
-### 🌱 Atualmente estou focado em aprender:
+### 🌱 Atualmente estou focado em melhorar:
 * **Automação e Infraestrutura como Código (IaC):** Terraform e Ansible
 * **Containers:** Docker e Kubernetes
 
