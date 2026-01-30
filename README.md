@@ -5,8 +5,9 @@
 ---
 
 ### 🌱 Atualmente estou focado em melhorar:
-* **Automação e Infraestrutura como Código (IaC):** Terraform e Ansible
-* **Containers:** Docker e Kubernetes
+* **Automação e Infraestrutura como Código (IaC):** Ansible
+* **Containers:** Docker
+* Desenvolvimento em PHP
 
 ### 🔭 Meus Projetos e Estudos:
 * Confira meu **[Repositório de Anotações](https://github.com/julioccamargo/artigos)**, onde registro meu progresso.
@@ -21,9 +22,7 @@
 
 ### 🎯 Metas:
 
-* Desenvolver meu conhecimento em Python para automatizar melhor as tarefas na Cloud. Acesse [aqui](https://github.com/julioccamargo/aprendendo-python).
-* Conquistar certificações Linux, Docker e Kubernetes
-* Acelerar meus conhecimentos: React
-
+* Aprender PHP
+* Conquistar mais certificações
+  
 - 📫 Você pode me encontrar no **[LinkedIn](https://linkedin.com/in/julioccamargo)**.
-- 😄 Pronomes: Ele/Dele
