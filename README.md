@@ -2,7 +2,7 @@
 
 # Julio Cesar Camargo Junior
 
-**Infrastructure Engineer · DevOps · Analista de TI · Dev**
+**Infrastructure Engineer · DevOps · Dev**
 
 Microsoft 365 · Intune · Entra ID · Windows Server · Linux · Cloud · Docker · PowerShell · Python
 
