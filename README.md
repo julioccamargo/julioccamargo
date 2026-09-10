@@ -34,7 +34,7 @@ Analista de TI na **Madeplant Florestal**, com atuação de Infrastructure Engin
 | Período | Empresa | Função |
 | :--- | :--- | :--- |
 | 06/2026 – atual | **Madeplant Florestal** | Analista de TI / Infrastructure Engineer — M365, Entra, Intune, AD, Windows/Linux, UniFi, ESXi, Zabbix/Grafana, Docs as Code |
-| 12/2025 – atual | **hooney+** | DevOps — Docker, GitHub Actions, Compose, FinOps |
+| 12/2025 – 08/2026 | **hooney+** | DevOps — Docker, GitHub Actions, Compose, FinOps |
 | 03/2026 – 06/2026 | **Grupo RKO** | Infra — Entra Connect, SSO, pfSense, Dell PowerEdge, AD DS/GPOs |
 | 07/2024 – 10/2025 | **Grupo COMAK** | Analista de TI — 5 unidades, Python, Bitdefender, rede, FinOps |
 | 10/2022 – 04/2024 | **Alvorada** | Suporte de TI — Grafana, Nginx, LGPD, 250+ usuários |
