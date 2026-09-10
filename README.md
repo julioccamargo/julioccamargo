@@ -21,7 +21,7 @@ Campo Grande, MS · **Madeplant Florestal** (desde 17/06/2026)
 
 ---
 
-Analista de TI na **Madeplant Florestal**, com atuação de Infrastructure Engineer e DevOps. Entrego também aplicações web e CI/CD. Origem em suporte e infra de operação: identidade híbrida, rede, datacenter e automação (PowerShell, Bash, Python). Terraform, Ansible e Kubernetes são complementares.
+Analista de Infraestrutura Híbrida na **Madeplant Florestal**, com atuação de Infrastructure Engineer e DevOps. Entrego também aplicações web e CI/CD. Origem em suporte e infra de operação: identidade híbrida, rede, datacenter e automação (PowerShell, Bash, Python). Terraform, Ansible e Kubernetes são complementares.
 
 ### Impacto
 
@@ -33,7 +33,7 @@ Analista de TI na **Madeplant Florestal**, com atuação de Infrastructure Engin
 
 | Período | Empresa | Função |
 | :--- | :--- | :--- |
-| 06/2026 – atual | **Madeplant Florestal** | Analista de TI / Infrastructure Engineer — M365, Entra, Intune, AD, Windows/Linux, UniFi, ESXi, Zabbix/Grafana, Docs as Code |
+| 06/2026 – atual | **Madeplant Florestal** | Infrastructure Engineer — M365, Entra, Intune, AD, Windows/Linux, UniFi, ESXi, Zabbix/Grafana, Docs as Code |
 | 12/2025 – 08/2026 | **hooney+** | DevOps — Docker, GitHub Actions, Compose, FinOps |
 | 03/2026 – 06/2026 | **Grupo RKO** | Infra — Entra Connect, SSO, pfSense, Dell PowerEdge, AD DS/GPOs |
 | 07/2024 – 10/2025 | **Grupo COMAK** | Analista de TI — 5 unidades, Python, Bitdefender, rede, FinOps |
