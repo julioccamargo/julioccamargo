@@ -68,7 +68,7 @@ Wyden — Gestão da TI (2025–2027) · UFC — Matemática (2013–2016)
 
 <div align="center">
 
-<img height="155" src="https://github-readme-stats.vercel.app/api?username=julioccamargo&show_icons=true&theme=transparent&hide_border=true&count_private=true" alt="GitHub stats" />
-<img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julioccamargo&layout=compact&theme=transparent&hide_border=true" alt="Top langs" />
+<img height="165" src="https://github-readme-stats.shion.dev/api?username=julioccamargo&show_icons=true&hide_title=false" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=julioccamargo&layout=compact" alt="Linguagens mais usadas" />
 
 </div>
