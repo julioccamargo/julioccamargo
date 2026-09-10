@@ -68,7 +68,10 @@ Wyden — Gestão da TI (2025–2027) · UFC — Matemática (2013–2016)
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.shion.dev/api?username=julioccamargo&show_icons=true&hide_title=false" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=julioccamargo&layout=compact" alt="Linguagens mais usadas" />
+**2.101 contribuições no último ano** (públicas e privadas — gráfico do GitHub)
+
+<img height="140" src="https://github-readme-stats.shion.dev/api/top-langs/?username=julioccamargo&layout=compact&hide_title=false" alt="Linguagens nos repositórios públicos" />
+
+<sub>Top langs considera só repositórios públicos. Commits em orgs/privados não entram nesse gráfico.</sub>
 
 </div>
